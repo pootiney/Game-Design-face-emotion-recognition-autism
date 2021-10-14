@@ -47,7 +47,26 @@ https://www.aparat.com/v/aD7f4
 
 
 
-# Level_1:
+# Level_1 (Gestalt Level):
+
+This level has two parts.
+
+1-puzzle:
+
+user put different parts of an image next to each other and the final picture is a face
+
+2-Drag and Drop:
+
+user drag different parts of the face and drop them in correct part of face
+
+for the first part I just tore apart the original image.
+
+for the second part I seperate face components.
+
+faces aren in 3 different emotions happy, sad and angry.
+
+I'll upload code sources after their finished
+
 
 
 
