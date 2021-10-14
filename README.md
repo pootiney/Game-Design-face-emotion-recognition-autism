@@ -14,7 +14,7 @@ execute Unity Hub (tick the run unity hub and then finish installation)
 
 it wants a license, so exit Unity Hub (even end task in taskmanager to be sure you exit completely)
 
-copy file app.asar (extract .rar file) in this address "C:\Program Files\Unity Hub\resources"
+copy file app.asar (extract app.rar file) in this address "C:\Program Files\Unity Hub\resources"
 
 run as administer Unity Hub
 
