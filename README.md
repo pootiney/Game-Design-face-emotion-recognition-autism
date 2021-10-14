@@ -1,8 +1,7 @@
 # Game-Design-face-emotion-recognition-autism
-```diff
 
-- installation:
-```
+# installation:
+
 
 run VPN
 
@@ -46,8 +45,9 @@ https://www.aparat.com/v/aD7f4
 
 
 
-```diff
 
-- Level_1:
-```
+
+# Level_1:
+
+
 
