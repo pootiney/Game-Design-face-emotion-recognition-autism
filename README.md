@@ -60,7 +60,7 @@ I'm using different applications in developing this Game:
 
 It has 4 Levels:
 
-1- [Gestalt Level](Gestalt_Level)
+1- [Gestalt Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#gestalt-level)
 
 2- Emotion Training Level
 
