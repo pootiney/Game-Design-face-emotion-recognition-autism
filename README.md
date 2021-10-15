@@ -2,7 +2,7 @@
 
 **This application is a game developed in Unity 2020.3.18f1 and it's goal is to train facial emotion recognition to Autistic Children.**
 
-I'm using different applications in developing this Game:
+I'm using different softwares in developing this Game:
 
 * Unity 2020.3.18f1
 * Visual Studio 2017
