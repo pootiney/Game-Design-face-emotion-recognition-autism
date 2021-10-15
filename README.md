@@ -103,11 +103,11 @@ when you run the software:
 
 This level has two parts.
 
-1-puzzle:
+1. puzzle:
 
 user put different parts of an image next to each other and the final picture is a face
 
-2-Drag and Drop:
+2. Drag and Drop:
 
 user drag different parts of the face and drop them in correct part of face
 
