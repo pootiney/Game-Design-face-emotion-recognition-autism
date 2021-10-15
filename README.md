@@ -115,7 +115,7 @@ for the first part I just tore apart the original image.
 
 for the second part I seperate face components.
 
-faces aren in 3 different emotions happy, sad and angry.
+faces are in 3 different emotions happy, sad and angry.
 
 **I'll upload code sources after their finished**
 > Questions That arises:
