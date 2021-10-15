@@ -77,11 +77,13 @@ when you run the software:
 * You will see 4 Icons for 4 different levels that only first level is unlocked.
 * When user finished first level the second level will be unlocked and respectively each higher level will be unlocked after finishing each lower level.
 * After finishing each level that level will be locked. But after finishing all levels, entire levels will be locked.
-* Software has a 20 minutes limit for using the game in each day.( Software will be closed after 20 minutes and will ask the player to continue tomorrow.)
+* Software has a 20 minutes limit for using the game in each day.( Software will be closed after 20 minutes and will ask the player to click on Exit button and to continue tomorrow.)
 * Software will continue the game from the start point of where the player had left.
 * This 20 minutes limit can be divided to different time session which summation must be 20 mnutes.
 * Software will notify to play each day.
 > Questions arised in designing these features of the game.
+
+>0. How I can choose an option by clicking on it?
 
 >1. Application must have a realy small size, but how?
 
