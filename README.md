@@ -1,56 +1,66 @@
 # Game-Design-face-emotion-recognition-autism
 
-# installation:
+**This application is a game developed in Unity 2020.3.18f1 and it's goal is to train facial emotion recognition to Autistic Children.**
+
+I'm using different applications in developing this Game:
+
+* Unity 2020.3.18f1
+* Visual Studio 2017
+* Adobe Photoshop 2021
+* Adobe Illustrator 2020
+
+## Installation:
+
+* [Installation tutorial](https://www.aparat.com/v/aD7f4)  (This tutorial is in Persian)
+
+* Run VPN
+
+* Download Unity Hub
+
+* Install Unity Hub
+
+* Execute Unity Hub (tick the run unity hub and then finish installation)
+
+* It wants a license, so exit Unity Hub (even end task in taskmanager to be sure you exit completely)
+
+* Copy file app.asar (extract app.rar file) in this address "C:\Program Files\Unity Hub\resources"
+
+* Run as administer Unity Hub
+
+* Choose installs tab
+
+* Click on add
+
+* Choose desired version of unity 
+
+* Next
+
+* Choose desired modules of unity
+
+* Choose android build support (includes SDK,NDKand JDK tools) to have andriod out put of your game
+
+* When its completely installed exit the Unity Hub Completely
+
+* Again Run as administer 
+
+* Click on the 3 dots on top of the installed versionof unity 
+
+* Choose patch pro
+
+* Choose patch License
+
+* Now the pro version of unity is activated On your laptop
 
 
-run VPN
-
-download Unity Hub
-
-install Unity Hub
-
-execute Unity Hub (tick the run unity hub and then finish installation)
-
-it wants a license, so exit Unity Hub (even end task in taskmanager to be sure you exit completely)
-
-copy file app.asar (extract app.rar file) in this address "C:\Program Files\Unity Hub\resources"
-
-run as administer Unity Hub
-
-choose installs tab
-
-click on add
-
-choose desired version of unity 
-
-next
-
-choose desired modules of unity
-
-choose android build support (includes SDK,NDKand JDK tools) to have andriod out put of your game
-
-when its completely installed exit the Unity Hub Completely
-
-again Run as administer 
-
-click on the 3 dots on top of the installed versionof unity 
-
-choose patch pro
-
-choose patch License
-
-Now the pro version of unity is activated On your laptop
-
-https://www.aparat.com/v/aD7f4
 
 
 
 
-# About the Game
+## About the Game
 
 It has 4 Levels:
 
-1- Gestalt Level
+1- [Gestalt Level](Gestalt_Level)
 
 2- Emotion Training Level
 
@@ -62,13 +72,14 @@ It has 4 Levels:
 
 But about generall features of software:
 
+
 when you run the software, 
 
 
 
 
 
-# Level_1 (Gestalt Level):
+### Gestalt Level:
 
 This level has two parts.
 
