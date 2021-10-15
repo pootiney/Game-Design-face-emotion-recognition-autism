@@ -103,13 +103,13 @@ when you run the software:
 
 This level has two parts.
 
-1. puzzle:
+1. Puzzle:
 
-     user put different parts of an image next to each other and the final picture is a face
+     User put different parts of an image next to each other and the final picture is a face.
 
 2. Drag and Drop:
 
-     user drag different parts of the face and drop them in correct part of face
+     User drag different parts of the face and drop them in correct part of face
 
 for the first part I just tore apart the original image.
 
@@ -117,7 +117,22 @@ for the second part I seperate face components.
 
 faces aren in 3 different emotions happy, sad and angry.
 
-I'll upload code sources after their finished
+**I'll upload code sources after their finished**
+> Questions That arises:
+
+>1. In puzzle how I determine that each piece of puzzle is located in correct place?
+
+>2. In puzzle how I organize pieces to be chosen?
+
+>3. How does the game cheer the player for each correct choice?
+
+>4. How does the game collect the scores?
+
+>5. In Drag and Drop how I organize pieces to be chosen?
+
+>6. In Drag and Drop how I determine that each piece of puzzle is located in correct place?
+
+>7. How does the game go to the next face when the previous one is solved?
 
 ### Emotion Training Level
 
