@@ -46,6 +46,27 @@ https://www.aparat.com/v/aD7f4
 
 
 
+# About the Game
+
+It has 4 Levels:
+
+1- Gestalt Level
+
+2- Emotion Training Level
+
+3- Emotion Expressing Level
+
+4- Emotion in the situation Level
+
+(I'll explain each level in it's part completely)
+
+But about generall features of software:
+
+when you run the software, 
+
+
+
+
 
 # Level_1 (Gestalt Level):
 
