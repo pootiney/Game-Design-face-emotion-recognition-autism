@@ -82,7 +82,20 @@ when you run the software:
 * This 20 minutes limit can be divided to different time session which summation must be 20 mnutes.
 * Software will notify to play each day.
 > Questions arised in designing these features of the game.
-> *
+
+>1. Application must have a realy low size, but how?
+
+>2. How lock and Unlock the levels?
+
+>3. How put the time limit?
+
+>4. How have the time limit in seperate sessions in one day?
+
+>5. How will the game continue from the start of the part which it was closed last time?
+
+>6. How will the game notify to play every day?
+
+
 
 ### Gestalt Level:
 
