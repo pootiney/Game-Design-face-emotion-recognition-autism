@@ -58,11 +58,11 @@ I'm using different applications in developing this Game:
 
 ## About the Game
 
-It has 4 Levels:
+**It has 4 Levels:**
 
 1- [Gestalt Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#gestalt-level)
 
-2- Emotion Training Level
+2- [Emotion Training Level]()
 
 3- Emotion Expressing Level
 
@@ -99,6 +99,6 @@ faces aren in 3 different emotions happy, sad and angry.
 
 I'll upload code sources after their finished
 
-
+### Emotion Training Level
 
 
