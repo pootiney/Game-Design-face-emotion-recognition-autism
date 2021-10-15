@@ -83,7 +83,7 @@ when you run the software:
 * Software will notify to play each day.
 > Questions arised in designing these features of the game.
 
->1. Application must have a realy low size, but how?
+>1. Application must have a realy small size, but how?
 
 >2. How lock and Unlock the levels?
 
