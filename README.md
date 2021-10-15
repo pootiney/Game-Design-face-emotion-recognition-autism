@@ -89,7 +89,7 @@ when you run the software:
 
 >3. How put the time limit?
 
->4. How have the time limit in seperate sessions in one day?
+>4. How can I have the time limit in seperate sessions in one day?
 
 >5. How will the game continue from the start of the part which it was closed last time?
 
