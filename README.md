@@ -60,13 +60,13 @@ I'm using different softwares in developing this Game:
 
 **It has 4 Levels:**
 
-1. [Gestalt Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#gestalt-level)
+[] 1. [Gestalt Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#gestalt-level)
 
-2. [Emotion Training Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#emotion-training-level)
+[] 2. [Emotion Training Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#emotion-training-level)
 
-3. [Emotion Expressing Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#emotion-expressing-level)
+[] 3. [Emotion Expressing Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#emotion-expressing-level)
 
-4. [Emotion in the situation Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism#emotion-in-the-situation-level)
+[] 4. [Emotion in the situation Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism#emotion-in-the-situation-level)
 
 > I'll explain each level in it's part completely
 
