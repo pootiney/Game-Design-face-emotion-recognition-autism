@@ -223,23 +223,23 @@ In this part we explain different situations and then ask the player to express 
     ```
    * I wrote **"draganddrop.cs "** to drag components.
    ```C#
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+  using System.Collections;
+  using System.Collections.Generic;
+  using UnityEngine;
 
-public class draganddrop : MonoBehaviour
-{
+  public class draganddrop : MonoBehaviour
+  {
     private bool isDragging;
     public void OnMouseDown()
     {
         isDragging = true;
-    }
+     }
     public void OnMouseUp()
     {
         isDragging = false;
-    }
+     }
 
-    // Update is called once per frame
+     // Update is called once per frame
     void Update()
     {
      if(isDragging)
@@ -247,7 +247,7 @@ public class draganddrop : MonoBehaviour
             Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
             transform.Translate(mousePosition);
         }
-    }
-}
+     }
+   }
 
    ```
