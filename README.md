@@ -136,7 +136,7 @@ faces are in 3 different emotions happy, sad and angry.
 
       In this part different faces in happy, sad and angry emotions will be shown to the player randomly and they must tap one of three emojies in the buttom of the screen. If the answer where true it increases the score and if it's not it will decrease the score.
  > Questions arises:
- > How does the game choose the faces randomly?
+ >1. How does the game choose the faces randomly?
 
 
 
@@ -146,7 +146,6 @@ faces are in 3 different emotions happy, sad and angry.
 
 In this part the player and a parent or an older sibling will play together. they both will look at the camera, the game will recognise their faces. Then the game will ask them to be sad or happy or angry by showing them the corresponding emoji, and will feedback them by tick or cross mark. If the player was true they will have an increase in they're scores. If the player was true but co-player wasn't it will say you are the winner, if they both are true it will say you both are winners and if the player is wrong it will tell oh so bad you loosed, Let's try again.
 > Questions that arised:
-
 >1. How the software will recognise the faces?
 >2. How we will show the emojie exactly when we recognised the faces?
 >3. How the software will recognise the emotion?
