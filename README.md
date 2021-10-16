@@ -160,9 +160,9 @@ faces are in 3 different emotions happy, sad and angry.
 
 
 ### Emotion Expressing Level
-**This level has 2 perts:
+**This level has 2 perts:**
 1. Emotion Express Competetion:
 2. Express what You see:
 
 ### Emotion in the situation Level
-In this part we explain different situations and then ask the player to express the emotion that is suitable for that ituation.
+In this part we explain different situations and then ask the player to express the emotion that is suitable for that situation.
