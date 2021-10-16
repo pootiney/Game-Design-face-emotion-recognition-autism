@@ -168,3 +168,6 @@ In this part we explain different situations and then ask the player to express 
 
 
 ## Procedure
+
+* First of all I started with designing level 1, part 2 (Drag and Drop):
+   * I mde faces graphically ready, I've seperated the components of the faces. 
