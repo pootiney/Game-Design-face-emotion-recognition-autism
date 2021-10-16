@@ -160,9 +160,20 @@ faces are in 3 different emotions happy, sad and angry.
 
 
 ### Emotion Expressing Level
-**This level has 2 perts:**
+**This level has 2 parts:**
 1. Emotion Express Competetion:
+
+In this part the player and a parent or an older sibling will play together. they both will look at the camera, the game will recognise their faces. Then the game will ask them to be sad or happy or angry by showing them the corresponding emoji, and will feedback them by tick or cross mark. If the player was true they will have an increase in they're scores. If the player was true but co-player wasn't it will say you are the winner, if they both are true it will say you both are winners and if the player is wrong it will tell oh so bad you loosed, Let's try again.
+> Questions that arised:
+
+>1. How the software will recognise the faces?
+>2. How we will show the emojie exactly when we recognised the faces?
+>3. How the software will recognise the emotion?
+>4. How will we show the text or voice of applauding?
+>5. How will we ask the player wants try again or not?
+
 2. Express what You see:
+ 
 
 ### Emotion in the situation Level
 In this part we explain different situations and then ask the player to express the emotion that is suitable for that situation.
