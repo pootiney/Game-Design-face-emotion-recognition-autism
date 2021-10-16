@@ -137,7 +137,8 @@ faces are in 3 different emotions happy, sad and angry.
 ### Emotion Training Level
 **This level has 2 parts:**
 1. Emotion rain part:
-  This part has 3 categories, happy, sad and angry. When you choose each option, you'll face rain of emotional faces, and you must tap on emotions that you are in its category. If a face of not purposed emotion reach the ground it will be disapeared, but if it's  the purposed emotion it will remin on the ground and it will cause failure if it reaches a threshold. If the player tapped mistakably the wrong face it will cause score decrease and correct taps cause increase in scores. 
+ 
+ This part has 3 categories, happy, sad and angry. When you choose each option, you'll face rain of emotional faces, and you must tap on emotions that you are in its category. If a face of not purposed emotion reach the ground it will be disapeared, but if it's  the purposed emotion it will remin on the ground and it will cause failure if it reaches a threshold. If the player tapped mistakably the wrong face it will cause score decrease and correct taps cause increase in scores. 
   
   >Questions that arises:
 
@@ -150,7 +151,8 @@ faces are in 3 different emotions happy, sad and angry.
   >4. How do the game recognise that I tapped the face?
 
 3. Emotion recognition part:
- In this part different faces in happy, sad and angry emotions will be shown to the player randomly and they must tap one of three emojies in the buttom of the screen. If the answer where true it increases the score and if it's not it will decrease the score.
+
+  In this part different faces in happy, sad and angry emotions will be shown to the player randomly and they must tap one of three emojies in the buttom of the screen. If the answer where true it increases the score and if it's not it will decrease the score.
  > Questions arises:
 
  > How does the game choose the faces randomly?
