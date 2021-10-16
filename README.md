@@ -82,19 +82,12 @@ when you run the software:
 * This 20 minutes limit can be divided to different time session which summation must be 20 mnutes.
 * Software will notify to play each day.
 > Questions arised in designing these features of the game.
-
 >0. How I can choose an option by clicking on it?
-
 >1. Application must have a realy small size, but how?
-
 >2. How lock and Unlock the levels?
-
 >3. How put the time limit?
-
 >4. How can I have the time limit in seperate sessions in one day?
-
 >5. How will the game continue from the start of the part which it was closed last time?
-
 >6. How will the game notify to play every day?
 
 
@@ -119,19 +112,12 @@ faces are in 3 different emotions happy, sad and angry.
 
 **I'll upload code sources after their finished**
 > Questions That arises:
-
 >1. In puzzle how I determine that each piece of puzzle is located in correct place?
-
 >2. In puzzle how I organize pieces to be chosen?
-
 >3. How does the game cheer the player for each correct choice?
-
 >4. How does the game collect the scores?
-
 >5. In Drag and Drop how I organize pieces to be chosen?
-
 >6. In Drag and Drop how I determine that each piece of puzzle is located in correct place?
-
 >7. How does the game go to the next face when the previous one is solved?
 
 ### Emotion Training Level
@@ -141,20 +127,15 @@ faces are in 3 different emotions happy, sad and angry.
     This part has 3 categories, happy, sad and angry. When you choose each option, you'll face rain of emotional faces, and you must tap on emotions that you are in its category. If a face of not purposed emotion reach the ground it will be disapeared, but if it's  the purposed emotion it will remin on the ground and it will cause failure if it reaches a threshold. If the player tapped mistakably the wrong face it will cause score decrease and correct taps cause increase in scores. 
   
   >Questions that arises:
-
   >1. How do I make the rain?
-  
   >2. How do I categorise the faces?
-
   >3. How does the game recognise that the faces have reached the ground?
-  
   >4. How do the game recognise that I tapped the face?
 
 2. Emotion recognition part:
 
       In this part different faces in happy, sad and angry emotions will be shown to the player randomly and they must tap one of three emojies in the buttom of the screen. If the answer where true it increases the score and if it's not it will decrease the score.
  > Questions arises:
-
  > How does the game choose the faces randomly?
 
 
