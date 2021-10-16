@@ -165,3 +165,6 @@ In this part the player will see an neutral face in the center of the screen and
 In this part we explain different situations and then ask the player to express the emotion that is suitable for that situation. If the answer is true clap but if its not it will show a suitable face of the charecter to the player and when finished it will ask the player if they want to continue or not?
 >Questions that arise:
 >1. How to make an animated situation?
+
+
+##Procedure
