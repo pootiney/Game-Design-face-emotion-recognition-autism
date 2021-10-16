@@ -153,6 +153,12 @@ In this part the player and a parent or an older sibling will play together. the
 >5. How will we ask the player wants try again or not?
 
 2. Express what You see:
+
+In this part the player will see an neutral face in the center of the screen and will see an emojie in the bottom of the screen that shows an emotion. the player will express that emotion and if its true it will see the original picture's emotional state changes to what emojie says with a tick mark on top of it and success sound, and if it's not true it will show the correct emotion with a cross mark on top of it and failure sound!!It will askif you wanna continue or not? and if yes it will continue.
+
+>Questions that arises:
+>1. How it will play sounds?
+
  
 
 ### Emotion in the situation Level
