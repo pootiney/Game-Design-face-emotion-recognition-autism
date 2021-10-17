@@ -181,10 +181,10 @@ In this part we explain different situations and then ask the player to express 
     public class make_face : MonoBehaviour
     {
        public int sprite_count; // this variable changes the face 
-       public GameObject eye_l; // this is the left eye game object
+       public GameObject eye_l; // this is the left eye game object \(Base class for all entities in Unity Scenes.\)
        public GameObject eye_r; // this is the right eye game object
        public GameObject mouth; // this is the mouth game object
-       public Transform tr_1;
+       public Transform tr_1; //Every object in a Scene has a Transform. It's used to store and manipulate the position, rotation and scale of the object.
        public Transform tr_2;
        public Transform tr_3;
        public Vector3 v;
