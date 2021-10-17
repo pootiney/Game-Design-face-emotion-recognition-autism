@@ -214,10 +214,16 @@ In this part we explain different situations and then ask the player to express 
            sprite_count = 0; //it assigns 0 to the sprite counter at the beginning.
            tr_2 = eye_r.transform; // it assigns the transform variable tr_2 the transform of gameobject eye_r
            tr_3 = mouth.transform; // it assigns the transform variable tr_3 the transform of gameobject mouth
-           v = new Vector3(1.5f, -1, 0.5497855f); //it assigns a variable vector3 v an 3d vector by definning it with new Vector3(x value,y value,z value)
+           v = new Vector3(1.5f, -1, 0.5497855f); //it assigns a variable vector3 v an 3d vector by definning it with
+           
+           //new Vector3(x value,y value,z value)
            v1= new Vector3(2, -2, 0.5497855f);
-           spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
-           spriteRenderer.sprite = spriteArray[sprite_count];
+           spriteRenderer = gameObject.GetComponent<SpriteRenderer>(); //it assigns variable spriteRenderer the component SpriteRenderer of gameobject that this
+           
+           //code is written for it
+           spriteRenderer.sprite = spriteArray[sprite_count];// it assigns the sprite of spriteRenderer one of the sprites in the spriteArray that its number
+           
+           //is equal to sprite_count
 
         }
      
