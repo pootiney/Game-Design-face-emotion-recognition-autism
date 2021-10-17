@@ -192,11 +192,7 @@ In this part we explain different situations and then ask the player to express 
        public SpriteRenderer spriteRenderer; //Renders a Sprite for 2D graphics.
        public Sprite[] spriteArray; //Represents a Sprite object for use in 2D gameplay.
 
-// Sprites are 2D graphic objects used for characters, props, projectiles and other elments of 2D gameplay. The graphics are obtained from bitmap images - Texture2D. The 
-
-//Sprite class primarily identifies the section of the image that should be used for a specific sprite. This information can then be used by a SpriteRenderer component on a 
-
-//GameObject to actually display the graphic.
+       // Sprites are 2D graphic objects used for characters, props, projectiles and other elments of 2D gameplay. The graphics are obtained from bitmap images - Texture2D.          // The Sprite class primarily identifies the section of the image that should be used for a specific sprite. This information can then be used by a SpriteRenderer              // component on a GameObject to actually display the graphic.
        // Start is called before the first frame update
        void Start()
        {
