@@ -187,7 +187,7 @@ In this part we explain different situations and then ask the player to express 
        public Transform tr_1; //Every object in a Scene has a Transform. It's used to store and manipulate the position, rotation and scale of the object.
        public Transform tr_2;
        public Transform tr_3;
-       public Vector3 v; //a vector3 variable is Representation of 3D vectors and points.This structure is used throughout Unity to pass 3D positions and directions around. It also contains //functions for doing common vector operations.
+       public Vector3 v; //a vector3 variable is Representation of 3D vectors and points.This structure is used throughout Unity to pass 3D positions and directions around. It also contains functions for doing common vector operations.
        public Vector3 v1;
        public SpriteRenderer spriteRenderer;
        public Sprite[] spriteArray;
