@@ -220,7 +220,7 @@ In this part we explain different situations and then ask the player to express 
            v1= new Vector3(2, -2, 0.5497855f);
            spriteRenderer = gameObject.GetComponent<SpriteRenderer>(); //it assigns variable spriteRenderer the component SpriteRenderer of gameobject that this
            
-           //code is written for it
+           //script is attatched to it
            spriteRenderer.sprite = spriteArray[sprite_count];// it assigns the sprite of spriteRenderer one of the sprites in the spriteArray that its number
            
            //is equal to sprite_count
@@ -228,7 +228,7 @@ In this part we explain different situations and then ask the player to express 
         }
      
         // Update is called once per frame
-        void Update()
+        void Update()//I'll change this part later
         {
 
             tr_1 = eye_l.transform;
@@ -252,12 +252,12 @@ In this part we explain different situations and then ask the player to express 
 
   public class draganddrop : MonoBehaviour
   {
-    private bool isDragging;
-    public void OnMouseDown()
+    private bool isDragging;// this boolean variable is true when the mouse is down and is false when the mouse is up
+    public void OnMouseDown() //this  function will be called when the mouse is down
     {
         isDragging = true;
      }
-    public void OnMouseUp()
+    public void OnMouseUp() //this  function will be called when the mouse is up
     {
         isDragging = false;
      }
@@ -265,10 +265,38 @@ In this part we explain different situations and then ask the player to express 
      // Update is called once per frame
     void Update()
     {
-     if(isDragging)
+     if(isDragging)//when the mouse is down
         {
             Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
+            // "Input.mousePosition" reports the position of the mouse even when it is not inside the Game View.
+            
+            //Input.mousePosition is a Vector3 for compatibility with functions that have Vector3 arguments. 
+            
+            //The z component of the Vector3 is always 0.
+            
+            //Returns Vector3 The worldspace point created by converting the screen space point at the provided 
+            
+            //distance z from the camera plane.
+            
+            //Transforms a point from screen space into world space, where world space is defined as the coordinate system at
+            
+            //the very top of your game's hierarchy. World space coordinates can still be calculated even when provided as an 
+            
+            //off-screen coordinate, for example for instantiating an off-screen object near a specific corner of the screen. Screenspace
+            
+            //is defined in pixels. The bottom-left of the screen is (0,0); the right-top is (pixelWidth,pixelHeight). 
+            
+            //The z position is in world units from the camera.
+            
+             // " transform.position" The world space position of the Transform. The position property of a GameObject’s Transform, 
+             
+             //which is accessible in the Unity Editor and through scripts. Alter this value to move a GameObject. Get this value to 
+             
+             //locate the GameObject in 3D world space.It is a vector3.
+
             transform.Translate(mousePosition);
+            
+            //Moves the transform in the direction and distance of translation.
         }
      }
    }
