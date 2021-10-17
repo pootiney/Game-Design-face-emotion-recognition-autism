@@ -209,12 +209,12 @@ In this part we explain different situations and then ask the player to express 
        // component on a GameObject to actually display the graphic.
        
        // Start is called before the first frame update
-       void Start()
+       void Start() // this function will be run just in the beginning of the executation of the game.
        {
-           sprite_count = 0;
-           tr_2 = eye_r.transform;
-           tr_3 = mouth.transform;
-           v = new Vector3(1.5f, -1, 0.5497855f);
+           sprite_count = 0; //it assigns 0 to the sprite counter at the beginning.
+           tr_2 = eye_r.transform; // it assigns the transform variable tr_2 the transform of gameobject eye_r
+           tr_3 = mouth.transform; // it assigns the transform variable tr_3 the transform of gameobject mouth
+           v = new Vector3(1.5f, -1, 0.5497855f); //it assigns a variable vector3 v an 3d vector by definning it with new Vector3(x value,y value,z value)
            v1= new Vector3(2, -2, 0.5497855f);
            spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
            spriteRenderer.sprite = spriteArray[sprite_count];
