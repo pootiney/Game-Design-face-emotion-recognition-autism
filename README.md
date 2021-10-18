@@ -302,3 +302,4 @@ In this part we explain different situations and then ask the player to express 
    }
 
    ```
+   سلام به همگی بسیار خوشحالم که در خدمتتون هستم
