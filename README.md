@@ -190,6 +190,8 @@ In this part we explain different situations and then ask the player to express 
     ![Screenshot (211)](https://user-images.githubusercontent.com/26525766/138119538-25dae9da-3921-4414-8bd6-51412c4f7ce6.png)
 
    * In Gestalt scene I have a main camera , in main camera I haveGame objects which are images(background and frames for faces and their components) and so have spiriterenderer. I have another Gameobject face which has a variable spiriterenderer (faces images) and this gameobject itself has gameobjects g1, g2 and g3 which have spiriterenderers which change in each iteration of the game.
+   ![image](https://user-images.githubusercontent.com/26525766/138126112-51e2609d-f5f0-4e10-98d3-455e23e8bb00.png)
+
    *  I wrote **"make_face.cs"** to check if the components are located in true place or not? and to change the face when it's finished. This code is attached to gameobject face.
 
     ```C#
@@ -264,8 +266,9 @@ In this part we explain different situations and then ask the player to express 
   }
     ```
    * I wrote **"draganddrop.cs "** to drag components. So this code is attached to gameobjects g1, g2 and g3. I need to define a box collider 2D for each gameobject g1, g2 and g3 unless the code won't work correctly.
-   
-Uploading How To Drag and Drop a 2D Object [Beginner Tutorial - Unity 2019].mp4…
+   ![image](https://user-images.githubusercontent.com/26525766/138126458-5e4d81fe-5958-4ce6-b924-b2861ee44ffd.png)
+
+
    ```C#
   using System.Collections;
   using System.Collections.Generic;
