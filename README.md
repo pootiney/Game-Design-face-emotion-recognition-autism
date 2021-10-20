@@ -177,7 +177,11 @@ In this part we explain different situations and then ask the player to express 
 
     ![Screenshot (204)](https://user-images.githubusercontent.com/26525766/138113425-18e66981-eddb-45d3-99e8-6d349c6cfda4.png)
 
-   *   I've seperated the components of the faces. 
+   * I needed faces to be without components so again I used photoshop to make the face ready.
+    ![Screenshot (208)](https://user-images.githubusercontent.com/26525766/138116156-3d8c0f48-85fa-4d26-bfe3-913e2e8dd492.png)
+    ![Screenshot (209)](https://user-images.githubusercontent.com/26525766/138116180-8fd84184-1eee-437f-ad59-cfa7894abf02.png)
+
+   *     I've seperated the components of the faces. 
    
    * I wrote **"make_face.cs"** to check if the components are located in true place or not? and to change the face when it's finished.
 
