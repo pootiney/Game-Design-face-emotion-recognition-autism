@@ -172,11 +172,11 @@ In this part we explain different situations and then ask the player to express 
 * First of all I started with designing level 1, part 2 (Drag and Drop):
    * I made faces graphically ready:
     I've needed faces with same size so I cropped them in photoshop.
-    ![Screenshot (205)](https://user-images.githubusercontent.com/26525766/138112813-893f1ad8-d380-4eb4-8998-baa56ab858db.png)
     
-    ![Screenshot (204)](https://user-images.githubusercontent.com/26525766/138112868-1529fcb6-dec1-4bf9-bd97-d3a497f8eba1.png)
+    ![Screenshot (205)](https://user-images.githubusercontent.com/26525766/138113518-0f5223a6-4813-4556-bb9b-f111f40b1fdb.png)
 
-    
+    ![Screenshot (204)](https://user-images.githubusercontent.com/26525766/138113425-18e66981-eddb-45d3-99e8-6d349c6cfda4.png)
+
    *   I've seperated the components of the faces. 
    
    * I wrote **"make_face.cs"** to check if the components are located in true place or not? and to change the face when it's finished.
