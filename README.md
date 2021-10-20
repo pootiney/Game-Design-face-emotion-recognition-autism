@@ -185,7 +185,8 @@ In this part we explain different situations and then ask the player to express 
 
    * I've seperated the components of the faces in unity.
     
-    ![Screenshot (210)](https://user-images.githubusercontent.com/26525766/138119325-ab902899-511a-41d3-bdee-a49c1724dcdb.png)
+    ![Screenshot (210)](https://user-images.githubusercontent.com/26525766/138120140-608c95fb-5538-4c64-a5b8-372d52989af6.png)
+
 
     ![Screenshot (211)](https://user-images.githubusercontent.com/26525766/138119538-25dae9da-3921-4414-8bd6-51412c4f7ce6.png)
 
