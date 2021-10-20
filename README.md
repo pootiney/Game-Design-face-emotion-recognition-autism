@@ -178,11 +178,17 @@ In this part we explain different situations and then ask the player to express 
     ![Screenshot (204)](https://user-images.githubusercontent.com/26525766/138113425-18e66981-eddb-45d3-99e8-6d349c6cfda4.png)
 
    * I needed faces to be without components so again I used photoshop to make the face ready.
+   * 
     ![Screenshot (208)](https://user-images.githubusercontent.com/26525766/138116156-3d8c0f48-85fa-4d26-bfe3-913e2e8dd492.png)
+    
     ![Screenshot (209)](https://user-images.githubusercontent.com/26525766/138116180-8fd84184-1eee-437f-ad59-cfa7894abf02.png)
 
-   *     I've seperated the components of the faces. 
-   
+   * I've seperated the components of the faces in unity.
+    
+    ![Screenshot (210)](https://user-images.githubusercontent.com/26525766/138119325-ab902899-511a-41d3-bdee-a49c1724dcdb.png)
+
+    ![Screenshot (211)](https://user-images.githubusercontent.com/26525766/138119538-25dae9da-3921-4414-8bd6-51412c4f7ce6.png)
+
    * I wrote **"make_face.cs"** to check if the components are located in true place or not? and to change the face when it's finished.
 
     ```C#
