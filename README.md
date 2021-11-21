@@ -196,6 +196,14 @@ In this part we explain different situations and then ask the player to express 
    ![Screenshot (261)](https://user-images.githubusercontent.com/26525766/142756897-354a0a1c-36d6-41c1-8467-b52b4ffc7baa.png)
    
    ![Screenshot (256)](https://user-images.githubusercontent.com/26525766/142756904-f996fb19-a6e5-432a-b02f-e7bb80689f82.png)
+   
+   ![image](https://user-images.githubusercontent.com/26525766/142757430-80b5db73-ef03-4b6f-bd94-dc0e99c7dc46.png)
+
+   ![image](https://user-images.githubusercontent.com/26525766/142757439-f65c1301-4d1f-498f-b7cb-bbc809f36165.png)
+
+   ![image](https://user-images.githubusercontent.com/26525766/142757460-b503359d-5616-470f-a075-1ccac9c8f983.png)
+
+   ![Screenshot (265)](https://user-images.githubusercontent.com/26525766/142757471-aae660b7-cd1f-4a96-b723-2b02fd538a38.png)
 
   
    * In Gestalt scene I have a main camera , in main camera I haveGame objects which are images(background and frames for faces and their components) and so have spiriterenderer. I have another Gameobject face which has a variable spiriterenderer (faces images) and this gameobject itself has gameobjects g1, g2 and g3 which have spiriterenderers which change in each iteration of the game.
