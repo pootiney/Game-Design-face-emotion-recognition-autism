@@ -178,21 +178,22 @@ In this part we explain different situations and then ask the player to express 
     ![Screenshot (204)](https://user-images.githubusercontent.com/26525766/138113425-18e66981-eddb-45d3-99e8-6d349c6cfda4.png)
 
    * I needed faces to be without components so again I used photoshop to make the face ready.
-   
-    ![Screenshot (208)](https://user-images.githubusercontent.com/26525766/138116156-3d8c0f48-85fa-4d26-bfe3-913e2e8dd492.png)
+    ![Screenshot (251)](https://user-images.githubusercontent.com/26525766/142756754-b03376bc-0b12-4352-9d12-ba0fad237362.png)
     
-    ![Screenshot (209)](https://user-images.githubusercontent.com/26525766/138116180-8fd84184-1eee-437f-ad59-cfa7894abf02.png)
 
-   * I've seperated the components of the faces in unity.
-    
-    ![Screenshot (210)](https://user-images.githubusercontent.com/26525766/138120140-608c95fb-5538-4c64-a5b8-372d52989af6.png)
-
-    ![Screenshot (211)](https://user-images.githubusercontent.com/26525766/138119538-25dae9da-3921-4414-8bd6-51412c4f7ce6.png)
-
+  
    * In Gestalt scene I have a main camera , in main camera I haveGame objects which are images(background and frames for faces and their components) and so have spiriterenderer. I have another Gameobject face which has a variable spiriterenderer (faces images) and this gameobject itself has gameobjects g1, g2 and g3 which have spiriterenderers which change in each iteration of the game.
    ![image](https://user-images.githubusercontent.com/26525766/138126112-51e2609d-f5f0-4e10-98d3-455e23e8bb00.png)
-
+   ![Screenshot (255)](https://user-images.githubusercontent.com/26525766/142756787-2f683ff9-726f-4c2b-b603-af854d913db5.png)
+   ![Screenshot (252)](https://user-images.githubusercontent.com/26525766/142756811-bca19241-1797-47a9-a322-5fb44bc8103d.png)
+   ![Screenshot (253)](https://user-images.githubusercontent.com/26525766/142756845-21693cd9-1684-4177-8d44-957dc12c5a7a.png)
+   ![Screenshot (254)](https://user-images.githubusercontent.com/26525766/142756859-66ba9665-2892-4169-b3e7-65ef1dedfd2d.png)
+   ![Screenshot (257)](https://user-images.githubusercontent.com/26525766/142756874-cf66e9a6-9706-4e4f-8e65-73e24a21355a.png)
+   ![Screenshot (260)](https://user-images.githubusercontent.com/26525766/142756891-b2e5d5d9-8c98-4190-bcec-5f2f1a4cace6.png)
+   ![Screenshot (261)](https://user-images.githubusercontent.com/26525766/142756897-354a0a1c-36d6-41c1-8467-b52b4ffc7baa.png)
+   ![Screenshot (256)](https://user-images.githubusercontent.com/26525766/142756904-f996fb19-a6e5-432a-b02f-e7bb80689f82.png)
    *  I wrote **"make_face.cs"** to check if the components are located in true place or not? and to change the face when it's finished. This code is attached to gameobject face.
+
 
     ```C#
     using System.Collections;
@@ -327,3 +328,5 @@ In this part we explain different situations and then ask the player to express 
 
    ```
    
+
+
