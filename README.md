@@ -91,10 +91,15 @@ when you run the software:(this part is not complete yet)
 >4. How will the game continue from the start of the part which it was closed last time?
 >5. How will the game notify to play every day?(????????)
 
-### Menue:(not complete)
+### Menue:
 In menue we have 5 **Button**s to choose corresponding level.
 
 Two Other smaller buttons one to turn the sound on and off and the other to exit the game.
+
+The game remember wher the player exit playing. 
+
+The game remeber the last time we turn the soun off or on.
+
 > Questions That arises:
 >1. How does exit button works?
 >2. How the game remember our latest choice for sound (on or of) when we enter it the next time.
