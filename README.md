@@ -65,12 +65,12 @@ I'm using different softwares in developing this Game:
 
 - [ ] 1. [Gestalt Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#gestalt-levelnot-comlete)
 
-- [ ] 2. [Puzzle](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#puzzle-levelnot-complete)
+- [ ] 2. [Puzzle Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#puzzle-levelnot-complete)
 
-- [ ] 3. [Which Emotion](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#which-emotion-levelnot-complete)
+- [ ] 3. [Which Emotion Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#which-emotion-levelnot-complete)
 
-- [ ] 4. [Which Emotion Different](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#which-emotion-different-levelnot-complete)
-- [ ] 5. [Emotion in situation Picture](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#emotion-in-the-situation-picture-levelnot-complete)
+- [ ] 4. [Which Emotion Different Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#which-emotion-different-levelnot-complete)
+- [ ] 5. [Emotion in the situation picture Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#emotion-in-the-situation-picture-levelnot-complete)
 
 
 > I'll explain each level in it's part completely
