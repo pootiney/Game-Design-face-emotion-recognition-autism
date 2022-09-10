@@ -91,7 +91,7 @@ when you run the software:(this part is not complete yet)
 >4. How will the game continue from the start of the part which it was closed last time?
 >5. How will the game notify to play every day?(????????)
 
-
+### Menue:(not complete)
 
 ### Gestalt Level:(not comlete)
 
