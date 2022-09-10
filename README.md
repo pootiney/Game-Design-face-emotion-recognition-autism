@@ -92,7 +92,7 @@ when you run the software:(this part is not complete yet)
 >5. How will the game notify to play every day?(????????)
 
 ### Menue:(not complete)
-
+In menue we have 5 Buttons to choose corresponding level.
 ### Gestalt Level:(not comlete)
 
 In this level user drag different parts of the face and drop them in correct part of face
