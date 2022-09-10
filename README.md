@@ -61,7 +61,7 @@ I'm using different softwares in developing this Game:
 ## About the Game
 
 **It has 5 Levels and  Menue:**
-- [ ] 0. [Menue] (https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#menuenot-complete)
+- [ ] 0. [Menue](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#menuenot-complete)
 
 - [ ] 1. [Gestalt Level]
 
