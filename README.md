@@ -98,7 +98,7 @@ Two Other smaller buttons one to turn the sound on and off and the other to exit
 
 The game remember wher the player exit playing. 
 
-The game remeber the last time we turn the soun off or on.
+The game remeber the last time we turn the sound off or on.
 
 > Questions That arises:
 >1. How does exit button works?
