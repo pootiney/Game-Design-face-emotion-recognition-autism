@@ -77,14 +77,14 @@ I'm using different softwares in developing this Game:
 
 **But about generall features of software:**
 
-when you run the software:
+when you run the software:(this part is not complete yet)
 
 * You will see 5 Icons for 5 different levels that only first level is unlocked.
 * When user finished first level the second level will be unlocked and respectively each higher level will be unlocked after finishing each lower level.
 * After finishing each level that level will be locked. But after finishing all levels, entire levels will be locked.
 * Software will continue the game from the start point of where the player had left.
 * Software will notify to play each day.(??????)
-> Questions arised in designing these features of the game.(write each question arises while designing the application )
+> Questions arised in designing these features of the game.(write each question arises while designing the application, NOT COMPLETE)
 >1. How I can choose an option by clicking on it?
 >2. Application must have a realy small size, but how?
 >3. How lock and Unlock the levels?
@@ -93,11 +93,11 @@ when you run the software:
 
 
 
-### Gestalt Level:
+### Gestalt Level:(not comlete)
 
 In this level user drag different parts of the face and drop them in correct part of face
 
-for the first part I just tore apart the original image.
+for this level I just tore apart the original image.
 
 
 faces are in 3 different emotions happy, sad and angry.
@@ -109,7 +109,7 @@ faces are in 3 different emotions happy, sad and angry.
 
 
 
-### Puzzle Level
+### Puzzle Level(not complete)
 I must explain morein this part....
 **I'll upload code sources after their finished**
 > Questions That arises:
@@ -119,13 +119,13 @@ I must explain morein this part....
 >4. How does the game collect the scores?
 
 
-### Which Emotion Level
+### Which Emotion Level(not complete)
 **This level has 2 parts:**
 I will explain more about this part later
   >Questions that arises:
   >1. 
 
-### Which Emotion Different Level
+### Which Emotion Different Level(not complete)
 
 1. Emotion Express Competetion:
 
@@ -134,7 +134,7 @@ I'll Explain later about this part.
 >1.
 
 
-### Emotion in the situation picture Level
+### Emotion in the situation picture Level(not complete)
 I'll Explain later about this part.
 > Questions that arised:
 >1.
@@ -142,8 +142,8 @@ I'll Explain later about this part.
 
 
 ## Procedure
-
-### Designing Gestalt Level:
+### Designing Menue:
+### Designing Gestalt Level:(notcomplete)
    * I made faces graphically ready:
     I've needed faces with same size so I cropped them in photoshop.
     
@@ -318,6 +318,9 @@ I'll Explain later about this part.
    }
 
    ```
-   
+  ### Designing Puzzle level
+  ### Designing Which Emotion Level
+  ### Designing Which Emotion Different Level
+  ### Designing Emotion in Situation Level
 
 
