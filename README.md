@@ -92,7 +92,14 @@ when you run the software:(this part is not complete yet)
 >5. How will the game notify to play every day?(????????)
 
 ### Menue:(not complete)
-In menue we have 5 Buttons to choose corresponding level.
+In menue we have 5 **Button**s to choose corresponding level.
+
+Two Other smaller buttons one to turn the sound on and off and the other to exit the game.
+> Questions That arises:
+>1. How does exit button works?
+>2. How the game remember our latest choice for sound (on or of) when we enter it the next time.
+>3. How lock and unlock the levels?
+>4. How the game remember in which part we exit it?
 ### Gestalt Level:(not comlete)
 
 In this level user drag different parts of the face and drop them in correct part of face
