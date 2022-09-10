@@ -63,14 +63,14 @@ I'm using different softwares in developing this Game:
 **It has 5 Levels and  Menue:**
 - [ ] 0. [Menue](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#menuenot-complete)
 
-- [ ] 1. [Gestalt Level]
+- [ ] 1. [Gestalt Level](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#gestalt-levelnot-comlete)
 
-- [ ] 2. [Puzzle]
+- [ ] 2. [Puzzle](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#puzzle-levelnot-complete)
 
-- [ ] 3. [Which Emotion]
+- [ ] 3. [Which Emotion](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#which-emotion-levelnot-complete)
 
-- [ ] 4. [Which Emotion Different]
-- [ ] 5. [Emotion in situation Picture]
+- [ ] 4. [Which Emotion Different](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#which-emotion-different-levelnot-complete)
+- [ ] 5. [Emotion in situation Picture](https://github.com/pootiney/Game-Design-face-emotion-recognition-autism/blob/main/README.md#emotion-in-the-situation-picture-levelnot-complete)
 
 
 > I'll explain each level in it's part completely
