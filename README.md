@@ -81,7 +81,6 @@ when you run the software:(this part is not complete yet)
 
 * You will see 5 Icons for 5 different levels that only first level is unlocked.
 * When user finished first level the second level will be unlocked and respectively each higher level will be unlocked after finishing each lower level.
-* After finishing each level that level will be locked. But after finishing all levels, entire levels will be locked.
 * Software will continue the game from the start point of where the player had left.
 * Software will notify to play each day.(??????)
 > Questions arised in designing these features of the game.(write each question arises while designing the application, NOT COMPLETE)
